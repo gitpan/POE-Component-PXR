@@ -10,7 +10,7 @@ use POE::Filter::XML;
 use PXR::Node;
 use PXR::NS qw/ :SERVICE :IQ /;
 
-our $VERSION = '0.1';
+our $VERSION = '0.1.1';
 
 sub new()
 {

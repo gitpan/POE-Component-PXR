@@ -1,0 +1,5 @@
+MANIFEST			This list of files
+Makefile.PL
+POE/Component/PXR.pm
+lib/POE/Component/PXR.pm
+test.pl
